@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/wedding-website/static/css/main.126a4cf1.css",
-    "main.js": "/wedding-website/static/js/main.f00aca5a.js",
-    "static/js/453.ed3810f9.chunk.js": "/wedding-website/static/js/453.ed3810f9.chunk.js",
-    "static/media/wedding-image.webp": "/wedding-website/static/media/wedding-image.2b709a08e868de3848fd.webp",
-    "static/media/wedding-cake.svg": "/wedding-website/static/media/wedding-cake.520cf183511b69f31c3d1ffe885c9e6b.svg",
-    "static/media/champagne.svg": "/wedding-website/static/media/champagne.fb407c0cbc83843bd451542b19c21063.svg",
-    "static/media/hotel.svg": "/wedding-website/static/media/hotel.13768c1c9a11d46522034cf544e800ae.svg",
-    "static/media/wedding.svg": "/wedding-website/static/media/wedding.4b5dc01fc938b9bb1c5cf30924b448d1.svg",
-    "static/media/jacuzzi.svg": "/wedding-website/static/media/jacuzzi.59f698eed7341b2228b14ed63a5085ae.svg",
-    "static/media/photo.svg": "/wedding-website/static/media/photo.06e38dbb75977b7eee704842e48b5184.svg",
-    "static/media/establishment.svg": "/wedding-website/static/media/establishment.12651e7532f57b8875ee1e1b0071d1d4.svg",
-    "static/media/restaurant.svg": "/wedding-website/static/media/restaurant.6dbb8778c687ad9d204ef6b11058c137.svg",
-    "static/media/car.svg": "/wedding-website/static/media/car.23abbc93d11026e2c3622df6a7c22510.svg",
-    "static/media/breakfast.svg": "/wedding-website/static/media/breakfast.d6ff6c9916d68a82dcf5f4df399f1047.svg",
-    "index.html": "/wedding-website/index.html",
-    "static/media/heart.svg": "/wedding-website/static/media/heart.3bfb64af400490cd7f69.svg",
-    "main.126a4cf1.css.map": "/wedding-website/static/css/main.126a4cf1.css.map",
-    "main.f00aca5a.js.map": "/wedding-website/static/js/main.f00aca5a.js.map",
-    "453.ed3810f9.chunk.js.map": "/wedding-website/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/wedding-website-friends/static/css/main.8fbf6635.css",
+    "main.js": "/wedding-website-friends/static/js/main.e4607056.js",
+    "static/js/453.ed3810f9.chunk.js": "/wedding-website-friends/static/js/453.ed3810f9.chunk.js",
+    "static/media/wedding-image.webp": "/wedding-website-friends/static/media/wedding-image.2b709a08e868de3848fd.webp",
+    "static/media/wedding-cake.svg": "/wedding-website-friends/static/media/wedding-cake.520cf183511b69f31c3d1ffe885c9e6b.svg",
+    "static/media/champagne.svg": "/wedding-website-friends/static/media/champagne.fb407c0cbc83843bd451542b19c21063.svg",
+    "static/media/hotel.svg": "/wedding-website-friends/static/media/hotel.a9577aed4ef2141c11b5fac95dc99dd7.svg",
+    "static/media/wedding.svg": "/wedding-website-friends/static/media/wedding.4b5dc01fc938b9bb1c5cf30924b448d1.svg",
+    "static/media/jacuzzi.svg": "/wedding-website-friends/static/media/jacuzzi.59f698eed7341b2228b14ed63a5085ae.svg",
+    "static/media/photo.svg": "/wedding-website-friends/static/media/photo.06e38dbb75977b7eee704842e48b5184.svg",
+    "static/media/establishment.svg": "/wedding-website-friends/static/media/establishment.12651e7532f57b8875ee1e1b0071d1d4.svg",
+    "static/media/restaurant.svg": "/wedding-website-friends/static/media/restaurant.6dbb8778c687ad9d204ef6b11058c137.svg",
+    "static/media/car.svg": "/wedding-website-friends/static/media/car.23abbc93d11026e2c3622df6a7c22510.svg",
+    "static/media/breakfast.svg": "/wedding-website-friends/static/media/breakfast.d6ff6c9916d68a82dcf5f4df399f1047.svg",
+    "index.html": "/wedding-website-friends/index.html",
+    "static/media/heart.svg": "/wedding-website-friends/static/media/heart.3bfb64af400490cd7f69.svg",
+    "main.8fbf6635.css.map": "/wedding-website-friends/static/css/main.8fbf6635.css.map",
+    "main.e4607056.js.map": "/wedding-website-friends/static/js/main.e4607056.js.map",
+    "453.ed3810f9.chunk.js.map": "/wedding-website-friends/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.126a4cf1.css",
-    "static/js/main.f00aca5a.js"
+    "static/css/main.8fbf6635.css",
+    "static/js/main.e4607056.js"
   ]
 }
