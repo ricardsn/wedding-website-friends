@@ -32,52 +32,7 @@ function Plan () {
             icon: champagne,
             time: '13:45',
             text: t('Buffet')
-        },
-        {
-            icon: hotel,
-            time: '14:30',
-            text: t('Hotel'),
-            place: <p className='Plan-Item_Place'>Hotel Jūrmala Spa</p>,
-            button:  <a className="Plan-Item_Button" href="https://www.google.com/maps/place/Hotel+J%C5%ABrmala+Spa/@56.9737511,23.8035882,17z/data=!3m1!4b1!4m9!3m8!1s0x46eedd1c6bb6ec37:0xccfc41ce453b1314!5m2!4m1!1i2!8m2!3d56.9737511!4d23.8035882!16s%2Fg%2F1tcyjqzx?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"  target='_blank'><span>{t('Map')}</span></a>,
-            additional: <p className='Plan-Item_Additional'>{t('Additional')}</p>
-        },
-        {
-            icon: photo,
-            time: '15:00',
-            text: t('Photo'),
-        },
-        {
-            icon: restaurant,
-            time: '16:00',
-            text: t('Restaurant'),
-            place: <p className='Plan-Item_Place'>Yerevan Pandok</p>,
-            button:  <a className="Plan-Item_Button" href="https://www.google.com/maps/place/Yerevan+Pandok,+arm%C4%93%C5%86u+restor%C4%81ns,+m%C4%81jas+virtuves+veikals/@56.9723913,23.792875,17z/data=!3m1!4b1!4m6!3m5!1s0x46eedd5f05c84afd:0xd64e1f8e119e8c3d!8m2!3d56.9723913!4d23.7954499!16s%2Fg%2F11rfm4bswg?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"  target='_blank'><span>Karte</span></a>
-        },
-        {
-            icon: weddingCake,
-            time: '19:00',
-            text: t('Cake')
-        },
-        {
-            icon: jacuzzi,
-            time: '20:00-23:00',
-            text: t('SpaBar')
-        },
-        {
-            divider: true,
-            time: t('NextDay')
-        },
-        {
-            icon: breakfast,
-            time: '7:30-11:00',
-            text: t('Breakfast')
-        },
-        {
-            icon: car,
-            time: '12:00',
-            text: t('Checkout'),
-            additional: <p className='Plan-Item_Additional'>{t('LateCheckout')}</p>
-        },
+        }
     ];
 
     return (
